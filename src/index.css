@@ -21,6 +21,19 @@ body {
   color: #0f172a;
 }
 
+h3 {
+  margin: 0;
+  font-family: var(--headingFont);
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  letter-spacing: var(--letterSpacing);
+}
+
+h3 {
+  font-size: 1.953rem;
+}
+
 a {
   text-decoration: none;
 }
